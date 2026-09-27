@@ -8,6 +8,15 @@ The project is designed as a clean, portfolio-quality frontend application with 
 
 ---
 
+## 🌐 Preview
+   **[Click here to view Project :](https://shaina-cafe-azure.vercel.app/)**
+   
+   ![HomePage](Demoimage.png)
+
+
+
+   ---
+
 ## ✨ Features
 
 ### ⌨️ Typing Test
