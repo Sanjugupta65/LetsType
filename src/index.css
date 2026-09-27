@@ -8,7 +8,7 @@
   --accent: #ff7300;
   --accent2: #ff8a21;
   --shadow: 0 12px 40px rgba(255, 115, 0, 0.14);
-  --mono: "SFMono-Regular", Consolas, "Liberation Mono", monospace;
+  /* --mono:  monospace; */
   --sans:
     Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont,
     "Segoe UI", sans-serif;
