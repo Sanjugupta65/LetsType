@@ -28,16 +28,20 @@ const App = () => {
         navigate={navigate}
         theme={theme}
         setTheme={setTheme}
+        
       />
 
-      {page === "home" && <Home navigate={navigate} />}
+      {page === "home" &&<>
+      <Home navigate={navigate} />
+
+        <Footer/>
+      </> }
       {page === "test" && <TypingTest navigate={navigate} />}
       {page === "practice" && <Practice />}
       {page === "progress" && <Progress />}
       
 
-        <Footer/>
-    
+  
 
     </div>
   );
